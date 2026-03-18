@@ -37,6 +37,7 @@ while (!windowShouldClose()) {
 
 | Repo | Description |
 |------|-------------|
+| **[engine](https://github.com/Bloom-Engine/engine)** | The engine — TypeScript API + Rust native backends |
 | **[landing](https://github.com/Bloom-Engine/landing)** | Landing page — [bloomengine.dev](https://bloomengine.dev) |
 | **[brand](https://github.com/Bloom-Engine/brand)** | Brand guidelines, colors, typography, and assets |
 
